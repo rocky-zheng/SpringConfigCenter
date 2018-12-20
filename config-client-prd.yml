@@ -1,1 +1,2 @@
-#profile: prd-profile
+profile: prd-profile
+boot-username : boot-config-center-prd-username
