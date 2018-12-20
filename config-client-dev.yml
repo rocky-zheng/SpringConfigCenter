@@ -1,1 +1,3 @@
-name=rockyazheng
+service:
+    demo:
+        name: zheng
